@@ -1,0 +1,108 @@
+url: https://www.fertig2020.fr
+baseurl: 
+simpleform-token: "https://getsimpleform.com/messages?form_api_token=c7eaecdb54c780ec7ea89fa7c4b62823"
+
+# Site settings
+title: "Steeve FERTIG : un engagement naturel"
+email: steevefertig2020@gmail.com
+description: "Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller."
+lang: fr-FR
+
+# Team names, titles and social links
+people:
+- name: Steeve<br />FERTIG
+  pic: avh01
+  position: 1
+- name: Léontine<br />TULIPE
+  pic: avf01
+  position: 2
+- name: Jacques<br />BOULEAU
+  pic: avh02
+  position: 3
+- name: Jéromine<br />MYOSOTIS
+  pic: avf02
+  position: 4
+- name: Hector<br />TROÈNE
+  pic: avh03
+  position: 5
+- name: Véronique<br />POTENTILLE
+  pic: avf03
+  position: 6
+- name: Claude<br />DOUGLAS
+  pic: avh04
+  position: 7
+- name: Renée<br />ANEMONE
+  pic: avf04
+  position: 8
+- name: Clément<br />HOUX
+  pic: avh05
+  position: 9
+- name: Caroline<br />HELEBORE
+  pic: avf05
+  position: 10
+- name: Théophile<br />OKOUMÉ
+  pic: avh06
+  position: 11
+- name: Charlotte<br />DAHLIA
+  pic: avf06
+  position: 12
+- name: Hervé<br />CHARME
+  pic: avh07
+  position: 13
+- name: Michèle<br />MUGUET
+  pic: avf07
+  position: 14
+- name: Eric<br />SUREAU
+  pic: avh08
+  position: 15
+- name: Evelyne<br />PIVOINE
+  pic: avf08
+  position: 16
+- name: Hépaminondas<br />SEQUOIA
+  pic: avh09
+  position: 17
+- name: Paule<br />PIMPRENELLE
+  pic: avf09
+  position: 18
+- name: Albert<br />POMMIER
+  pic: avh10
+  position: 19
+- name: Germaine<br />LYS
+  pic: avf10
+  position: 20
+- name: Marc<br />PRUNIER
+  pic: avh11
+  position: 21
+- name: Hermance<br />PRIMEVERE
+  pic: avf11
+  position: 22
+- name: Pierre<br />EBENE
+  pic: avh12
+  position: 23
+- name: Marlène<br />PETUNIA
+  pic: avf12
+  position: 24
+- name: Edmond<br />CHARME
+  pic: avh13
+  position: 25
+- name: Brigitte<br />MIMOSA
+  pic: avf13
+  position: 26
+- name: Emmanuel<br />ERABLE
+  pic: avh14
+  position: 27
+- name: Jaqueline<br />PENSEE
+  pic: avf14
+  position: 28
+- name: Charles<br />TREMBLE
+  pic: avh15
+  position: 29
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
