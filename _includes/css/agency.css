@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -65,6 +65,10 @@ h6 {
     background-color: #eee;
 }
 
+.bg-light-brown {
+    background-color: #fcd18b;
+}
+
 .bg-darkest-gray {
     background-color: #222;
 }
@@ -75,6 +79,7 @@ h6 {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #fff;
+    text-shadow: black 1px 1px 1x;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -85,6 +90,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
+    text-shadow: black 1px 1px 1px;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -137,6 +143,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
+    text-shadow: black 1px 1px 1px;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -173,6 +180,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    text-shadow: black 1px 1px 1px;
    
 }
 
@@ -292,7 +300,7 @@ header .intro-text .intro-lead-in {
     font-family: {{ site.data.template.font.primary }};
     font-size: 40px;
     line-height: 40px;
-    text-shadow: black 0.1em 0.1em 0.2em;
+    text-shadow: black 1px 1px 1px;
 }
 
 header .intro-text .intro-heading {
@@ -338,6 +346,8 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 40px;
+    color: #118811;
+    text-shadow: black 1px 1px 1px;
 }
 
 section h3 {
@@ -975,7 +985,8 @@ body {
     font-size:48px;
  }
  .stat i {
-     color:#f7c221;
+     color:#{{ site.data.template.color.vert-fonce }};
+     text-shadow: black 1px 1px 1px;
  }
  .milestone-details {
     font-weight:bold;
@@ -989,3 +1000,6 @@ body {
 .top17 { margin-top:17px; }
 .top30 { margin-top:30px; } 
 
+#themes {
+    background-color: #{{ site.data.template.color.vert-fonce }};
+}
