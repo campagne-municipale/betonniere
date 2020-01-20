@@ -1,11 +1,11 @@
 ---
-title: Ingwiller en vert
-subtitle: Au-delà du Greenwashing
+title: Très chère mairie
+subtitle: Deux millions d'euros, en hausse
 layout: default
-modal-id: 6
-date: 2020-01-16
-img: ingwiller_vert.jpg
-thumbnail: ingwiller_vert-thumbnail.jpg
+modal-id: 7
+date: 2020-01-20
+img: chere_mairie.jpg
+thumbnail: chere-mairie-thumbnail.jpg
 alt: image-alt
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: Ingwiller en vert
-subtitle: Au-delà du Greenwashing
+title: Histoire d'eau
+subtitle: Qu'elle était bonne, jadis...
 layout: default
-modal-id: 6
-date: 2020-01-16
+modal-id: 7
+date: 2020-01-20
 img: ingwiller_vert.jpg
-thumbnail: ingwiller_vert-thumbnail.jpg
+thumbnail: histoire_eau_thumbnail.jpg
 alt: image-alt
 ---
 

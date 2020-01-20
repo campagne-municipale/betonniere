@@ -1,11 +1,11 @@
 ---
-title: Ingwiller en vert
-subtitle: Au-delà du Greenwashing
+title: Transparence et démocratie
+subtitle: La commune est à vous
 layout: default
 modal-id: 6
-date: 2020-01-16
+date: 2020-01-20
 img: ingwiller_vert.jpg
-thumbnail: ingwiller_vert-thumbnail.jpg
+thumbnail: transparence-thumbnail.jpg
 alt: image-alt
 ---
 
