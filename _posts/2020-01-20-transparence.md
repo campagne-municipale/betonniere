@@ -1,12 +1,13 @@
 ---
-title: Transparence et démocratie
+title: Transparence, démocratie
 subtitle: La commune est à vous
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2020-01-20
 img: ingwiller_vert.jpg
 thumbnail: transparence-thumbnail.jpg
 alt: image-alt
+published: true
 ---
 
 La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.
