@@ -66,7 +66,7 @@ h6 {
 }
 
 .bg-light-brown {
-    background-color: #fcd18b;
+    background-color: #fcd18b; 
 }
 
 .bg-darkest-gray {
@@ -193,7 +193,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-collapse {
@@ -241,7 +241,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 @media(min-width:768px) {
@@ -346,7 +346,7 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 40px;
-    color: #118811;
+    color: {{ site.data.template.color.primary }};
     text-shadow: black 1px 1px 1px;
 }
 
@@ -376,6 +376,7 @@ section h3.section-subheading {
 .img-fluid {
 	max-width: 100%;
 	height: auto;
+    border: 1px solid #{{ site.data.template.color.muted }};
 }
 .service-heading {
     margin: 15px 0;
