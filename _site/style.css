@@ -385,10 +385,11 @@ section h3.section-subheading {
 }
 
 #editorial {
-    border: 1px solid #333;
+    border: 1px solid #fcd18b;
     margin-bottom: 42px;
     padding: 24px;
     color: #000;
+    background-color: #118811;
     
 }  
 
@@ -396,6 +397,7 @@ section h3.section-subheading {
     font-size: 18px;
     line-height: 1.3em;
     font-weight: 500;
+    color: #fcd18b;
     }
 
 .img-fluid {

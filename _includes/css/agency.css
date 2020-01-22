@@ -377,10 +377,11 @@ section h3.section-subheading {
 }
 
 #editorial {
-    border: 1px solid #{{ site.data.template.color.muted }};
+    border: 1px solid #{{ site.data.template.color.secondary }};
     margin-bottom: 42px;
     padding: 24px;
     color: #000;
+    background-color: #{{ site.data.template.color.primary }};
     
 }  
 
@@ -388,6 +389,7 @@ section h3.section-subheading {
     font-size: 18px;
     line-height: 1.3em;
     font-weight: 500;
+    color: #{{ site.data.template.color.secondary }};
     }
 
 .img-fluid {

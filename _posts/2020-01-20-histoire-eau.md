@@ -1,5 +1,5 @@
 ---
-title: Histoire d'eau
+title: L'eau et la méthode
 subtitle: Qu'elle était bonne, jadis...
 layout: default
 modal-id: 4

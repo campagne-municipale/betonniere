@@ -1,5 +1,5 @@
 ---
-title: Ingwiller en vert
+title: Environnement
 subtitle: Au-delà du Greenwashing
 layout: default
 modal-id: 7

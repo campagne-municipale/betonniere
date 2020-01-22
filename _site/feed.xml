@@ -5,8 +5,8 @@
     <description>Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Jan 2020 17:32:42 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Jan 2020 17:32:42 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2020 19:12:55 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2020 19:12:55 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -58,7 +58,7 @@ La plantation des arbres fruitiers a été financée pour moitié par la Communa
       </item>
     
       <item>
-        <title>Histoire d'eau</title>
+        <title>L'eau et la méthode</title>
         <description>&lt;p&gt;La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.
 La plantation des arbres fruitiers a été financée pour moitié par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts Trames Vertes et Bleues.&lt;/p&gt;
 
@@ -126,31 +126,7 @@ La plantation des arbres fruitiers a été financée pour moitié par la Communa
       </item>
     
       <item>
-        <title>Tous les candidats</title>
-        <description>&lt;p&gt;La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.
-La plantation des arbres fruitiers a été financée pour moitié par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts Trames Vertes et Bleues.&lt;/p&gt;
-
-&lt;h3 id=&quot;les-étapes-daménagement-déjà-réalisées&quot;&gt;Les étapes d’aménagement déjà réalisées&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Désouchage et préparation du terrain&lt;/li&gt;
-  &lt;li&gt;Déménagement du rucher sur le terrain du verger&lt;/li&gt;
-  &lt;li&gt;Plantation de 32 arbres fruitiers&lt;/li&gt;
-  &lt;li&gt;Installation d’un grand hôtel à insectes&lt;/li&gt;
-  &lt;li&gt;Plantation de 1500 bulbes offerts par &lt;strong&gt;Graines Hubert&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;retrouvez-prochainement-sur-le-site-lensemble-des-travaux-du-verger-à-travers-un-grand-reportage-photographique&quot;&gt;Retrouvez prochainement sur le site l’ensemble des travaux du verger à travers un grand reportage photographique.&lt;/h3&gt;
-</description>
-        <pubDate>Thu, 16 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/01/16/liste/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/16/liste/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ingwiller en vert</title>
+        <title>Environnement</title>
         <description>&lt;p&gt;La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.
 La plantation des arbres fruitiers a été financée pour moitié par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts Trames Vertes et Bleues.&lt;/p&gt;
 
@@ -240,8 +216,9 @@ Ces pages, dont les adresses sont régulièrement vérifiées, ne font pas parti
       <item>
         <title>Crédits</title>
         <description>&lt;h2 id=&quot;médias&quot;&gt;Médias&lt;/h2&gt;
-&lt;p&gt;Sauf mention contraire, les photos des activités figurant sur ce site sont signées de Steeve Fertig, Claude Reimann ou Pierre Kessler.&lt;br /&gt;
-Les illustrations complémentaires sont fournies gracieusement par le site &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sauf mention contraire, les photos figurant sur ce site sont signées de Steeve Fertig, Claude Reimann ou Pierre Kessler.&lt;br /&gt;
+Les illustrations complémentaires sont fournies gracieusement par le site &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;.&lt;br /&gt;
+La carte d’Ingwiller, libre de droits, provient d’&lt;em&gt;OpenStreetMap&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;réalisation-et-hébergement&quot;&gt;Réalisation et hébergement&lt;/h2&gt;
 &lt;p&gt;Ce site est développé à partir du thème &lt;em&gt;Agency&lt;/em&gt;, créé initialement développé par &lt;em&gt;Styleshout&lt;/em&gt;.  Les dossiers utilisent le thème &lt;em&gt;Story&lt;/em&gt; développé par &lt;em&gt;HTML5 UP&lt;/em&gt;. &lt;strong&gt;L’ensemble du site est entièrement réalisé avec des logiciels libres et gratuits.&lt;/strong&gt;&lt;/p&gt;
