@@ -4,7 +4,7 @@ subtitle: Deux millions d'euros, en hausse
 layout: default
 modal-id: 6
 date: 2020-01-20
-img: chere_mairie.jpg
+img: chere-mairie.jpg
 thumbnail: chere-mairie-thumbnail.jpg
 alt: image-alt
 published: true

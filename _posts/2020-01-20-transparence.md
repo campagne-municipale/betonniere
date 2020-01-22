@@ -4,7 +4,7 @@ subtitle: La commune est à vous
 layout: default
 modal-id: 5
 date: 2020-01-20
-img: ingwiller_vert.jpg
+img: transparence.jpg
 thumbnail: transparence-thumbnail.jpg
 alt: image-alt
 published: true
