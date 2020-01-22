@@ -65,6 +65,10 @@ h6 {
     font-weight: 700;
 }
 
+h2 {
+    color: #118811; !important;
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -370,7 +374,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: Calibri, "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
     font-weight: 400;
 }
 
@@ -380,7 +384,20 @@ section h3.section-subheading {
     }
 }
 
-  
+#editorial {
+    border: 1px solid #333;
+    margin-bottom: 42px;
+    padding: 24px;
+    color: #000;
+    
+}  
+
+#editorial p {
+    font-size: 18px;
+    line-height: 1.3em;
+    font-weight: 500;
+    }
+
 .img-fluid {
 	max-width: 100%;
 	height: auto;
@@ -395,13 +412,19 @@ section h3.section-subheading {
     margin: 26px auto;
   }
 
-#services .img-responsive {
+#services p {
+    font-size: 16px;
+    line-height: 1.3em;
+  }
+
+  #services .img-responsive {
     margin: 6px auto;
     border: 2px solid #aaa;
   }
+
   #portfolio .img-responsive {
     margin: 4px auto;
-    border: 1 solid #f00;
+    border: 1 solid #333;
   }
 
 #portfolio .portfolio-item {
@@ -424,7 +447,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: #fcd18b; /* Fallback when no plugin support */
     background: rgba(118811, .9);
 }
 
