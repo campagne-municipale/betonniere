@@ -5,8 +5,8 @@
     <description>Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Jan 2020 17:15:31 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Jan 2020 17:15:31 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2020 17:32:42 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2020 17:32:42 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -190,7 +190,7 @@ La plantation des arbres fruitiers a été financée pour moitié par la Communa
 &lt;p&gt;&lt;b&gt;Liste électorale &lt;em&gt;Steeve FERTIG : un engagement naturel&lt;/em&gt;&lt;/b&gt;&lt;br /&gt;
     Lieu-dit Cambuhl
     67340 Ingwiller&lt;br /&gt;
-    Tél : 06 89 25 08 95&lt;/p&gt;
+    Tél : 06 18 16 67 70&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Directeur de publication&lt;/strong&gt; :
 &lt;strong&gt;Steeve FERTIG&lt;/strong&gt;, candidat tête de liste&lt;br /&gt;
@@ -240,12 +240,11 @@ Ces pages, dont les adresses sont régulièrement vérifiées, ne font pas parti
       <item>
         <title>Crédits</title>
         <description>&lt;h2 id=&quot;médias&quot;&gt;Médias&lt;/h2&gt;
-&lt;p&gt;Sauf mention contraire, les photos des activités de l’A.A.L.E. figurant sur ce site sont signées d’Yves Klein.&lt;br /&gt;
-Les photos d’illustration sont fournies gracieusement par le site &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;.&lt;br /&gt;
-Les documents sonores sont extraits d’une émission de &lt;a href=&quot;https://www.estfm.fr/&quot; target=&quot;_blank&quot;&gt;ESTFM&lt;/a&gt;, enregistrée en janvier 2018.&lt;/p&gt;
+&lt;p&gt;Sauf mention contraire, les photos des activités figurant sur ce site sont signées de Steeve Fertig, Claude Reimann ou Pierre Kessler.&lt;br /&gt;
+Les illustrations complémentaires sont fournies gracieusement par le site &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;réalisation-et-hébergement&quot;&gt;Réalisation et hébergement&lt;/h2&gt;
-&lt;p&gt;Ce site est développé à partir du thème &lt;em&gt;Agency&lt;/em&gt;, créé initialement développé par &lt;em&gt;styleshout&lt;/em&gt;.  Les reportages utilisent Webslides. &lt;strong&gt;L’ensemble du site est entièrement réalisé avec des logiciels libres et gratuits.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ce site est développé à partir du thème &lt;em&gt;Agency&lt;/em&gt;, créé initialement développé par &lt;em&gt;Styleshout&lt;/em&gt;.  Les dossiers utilisent le thème &lt;em&gt;Story&lt;/em&gt; développé par &lt;em&gt;HTML5 UP&lt;/em&gt;. &lt;strong&gt;L’ensemble du site est entièrement réalisé avec des logiciels libres et gratuits.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://linuxmint.com/&quot; target=&quot;_blank&quot;&gt;Linux Mint&lt;/a&gt; : le système d’exploitation&lt;/li&gt;
