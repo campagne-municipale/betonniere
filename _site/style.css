@@ -451,7 +451,8 @@ section h3.section-subheading {
     height: 100%;
     opacity: 0;
     transition: all ease .5s;
-    background: rgba(254, 209, 54, 0.9);
+    background: rgba(252, 209, 139, 0.7);
+    
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -819,7 +820,7 @@ body {
 
 
 .stat {
-    margin:150px auto;
+    margin:50px auto;
     text-align:center;
  }
  .highlight {
@@ -834,15 +835,17 @@ body {
  .stat i {
      color:#086623;
      text-shadow: black 1px 1px 1px;
+     padding-top: 1rem;
  }
  .milestone-details {
     font-weight:bold;
     font-size:18px;
-    color:#999;
+    color: #086623;
  }
 
  .milestone-counter {
-padding-bottom: 1rem;
+padding: .8rem;
+border: #333 1px solid;
  }
 
 .top5 { margin-top:5px; }
