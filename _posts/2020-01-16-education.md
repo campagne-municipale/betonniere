@@ -2,7 +2,7 @@
 title: Education à Ingwiller
 subtitle: Un reportage complet
 layout: default
-modal-id: 8
+modal-id: 6
 date: 2020-01-16
 thumbnail: ecole-thumbnail.jpg
 alt: image-alt

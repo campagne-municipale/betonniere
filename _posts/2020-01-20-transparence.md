@@ -2,7 +2,7 @@
 title: Transparence, démocratie
 subtitle: La commune est à vous
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2020-01-20
 img: transparence.jpg
 thumbnail: transparence-thumbnail.jpg

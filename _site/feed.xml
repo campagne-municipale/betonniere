@@ -5,8 +5,8 @@
     <description>Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Jan 2020 19:12:55 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Jan 2020 19:12:55 +0100</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2020 11:45:19 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2020 11:45:19 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -77,26 +77,6 @@ La plantation des arbres fruitiers a été financée pour moitié par la Communa
         <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/01/20/histoire-eau/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/01/20/histoire-eau/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Discrète décharge</title>
-        <description>&lt;p&gt;À l’opposé des valeurs de respects de l’environnement, la mmunicipalité veut faire inscrire dans le nouveau plan intercommunal d’urbanisme la possibilité d’ouvrir une décharge pour déchets BTP dans l’ancienne carrière de grès.&lt;/p&gt;
-
-&lt;h3 id=&quot;un-emplacement-des-plus-mal-choisis&quot;&gt;Un emplacement des plus mal choisis&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;La zone est soumise au régime forestier, mais elle est aussi classée en régénération naturelle et en phase d’observation&lt;/li&gt;
-  &lt;li&gt;Elle est très proche de la zone de protection du captage d’eau potable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;retrouvez-prochainement-sur-le-site-lensemble-du-dossier-de-la-décharge-btp-à-travers-un-reportage-illustré&quot;&gt;Retrouvez prochainement sur le site l’ensemble du dossier de la décharge BTP à travers un reportage illustré.&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/01/20/decharge/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/20/decharge/</guid>
         
         
       </item>

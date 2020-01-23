@@ -13,11 +13,10 @@
                 <div class="col-lg-11 col-lg-offset-1">
                     <div class="modal-body">
                         <h1>{{ post.title }}</h1>
-                        {%if post.modal-id < 1000 %} <p class=" item-intro"><strong>{{ post.date-manif }}</strong> -
-                            <strong>{{ post.lieu-manif }} </strong>
-                            <hr>
+                        {%if post.modal-id < 1000 %}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            {% endif %}
+                            <p class=" item-copyright"><strong>{{ post.auteur }}</strong><br /><small>{{ post.copyright }}</small></p>                           
+                        {% endif %}
                             {{ post.content }}
                         {%if post.doc %}
                        <a href="docs/{{ post.doc }}" download><button type="button" class="btn btn-primary"><i class="fas fa-download"></i> {{ post.doc-input }}</button></a>
