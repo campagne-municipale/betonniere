@@ -15,7 +15,7 @@
                         <h1>{{ post.title }}</h1>
                         {%if post.modal-id < 1000 %}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p class=" item-copyright"><strong>{{ post.auteur }}</strong><br /><small>{{ post.copyright }}</small></p>                           
+                            <p class="item-copyright"><strong>{{ post.auteur }}</strong><br /><small>{{ post.copyright }}</small></p>                           
                         {% endif %}
                             {{ post.content }}
                         {%if post.doc %}

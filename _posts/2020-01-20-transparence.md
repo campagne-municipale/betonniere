@@ -7,6 +7,8 @@ date: 2020-01-20
 img: transparence.jpg
 thumbnail: transparence-thumbnail.jpg
 alt: image-alt
+auteur: Photo Markus Spiske
+copyright: Licence CC BY
 published: true
 ---
 

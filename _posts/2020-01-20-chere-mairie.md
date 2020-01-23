@@ -7,6 +7,8 @@ date: 2020-01-20
 img: chere-mairie.jpg
 thumbnail: chere-mairie-thumbnail.jpg
 alt: image-alt
+auteur: Photo Ralph Hammann
+copyright: Licence CC BY-SA
 published: true
 ---
 

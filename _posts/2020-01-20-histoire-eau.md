@@ -7,6 +7,8 @@ date: 2020-01-20
 img: histoire_eau.jpg
 thumbnail: histoire_eau_thumbnail.jpg
 alt: image-alt
+auteur: Photo mrjn Photography
+copyright: Licence CC BY
 published: true
 ---
 

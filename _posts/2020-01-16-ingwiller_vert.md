@@ -6,7 +6,9 @@ modal-id: 2
 date: 2020-01-16
 img: ingwiller_vert.jpg
 thumbnail: ingwiller_vert-thumbnail.jpg
-alt: image-alt
+alt: Rouge-gorge
+auteur: Photo Pierre Kessler
+copyright: Licence CC BY-NC-SA
 published: true
 ---
 

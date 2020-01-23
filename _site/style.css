@@ -505,8 +505,7 @@ section h3.section-subheading {
 .item-copyright {
     font-size: small;
     text-align: right;
-    margin-right: -20px;
-    line-height: 100%;
+    line-height: 100% !important;
 }
 @media(min-width:767px) {
     #portfolio .portfolio-item {
@@ -825,7 +824,7 @@ body {
  }
  .highlight {
     color:#111;
-    padding:20px 0;
+    padding:10px 0;
     font-weight:bold;
     display:block;
     overflow:hidden;
@@ -841,6 +840,11 @@ body {
     font-size:18px;
     color:#999;
  }
+
+ .milestone-counter {
+padding-bottom: 1rem;
+ }
+
 .top5 { margin-top:5px; }
 .top7 { margin-top:7px; }
 .top10 { margin-top:10px; }
