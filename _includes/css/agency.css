@@ -356,6 +356,10 @@ section h2.section-heading {
     text-shadow: black 1px 1px 1px;
 }
 
+#contact .text-primary,
+#contact h2 {
+    text-shadow: white 1px 1px 1px;
+}    
 section h3 {
     margin-top: 100px;
     margin-bottom: 0;
@@ -367,9 +371,9 @@ section h3.section-subheading {
     margin-top: 14px;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 16px;
+    font-size: 2rem;
     font-style: normal;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 @media(min-width:768px) {
