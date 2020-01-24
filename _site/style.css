@@ -16,7 +16,8 @@ body {
     color: #333;
 }
 
-.text-primary {
+.text-primary,
+.text-primary:hover {
     color: #086623;
 }
 
@@ -365,9 +366,10 @@ section h2.section-heading {
 }
 
 #contact .text-primary,
-#contact h2 {
+ {
     text-shadow: white 1px 1px 1px;
-}    
+}  
+  
 section h3 {
     margin-top: 100px;
     margin-bottom: 0;
