@@ -295,8 +295,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: linear-gradient(to bottom,  #222 0%,transparent 18%),url('/img/header-bg_01.jpg');
-    background-position: left center;
+    background-image: linear-gradient(to bottom,  #222 0%,transparent 18%),url('/img/header-bg_02.jpg');
+    background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
