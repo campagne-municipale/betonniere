@@ -1,6 +1,6 @@
 ---
-title: Éducation à Ingwiller
-subtitle: Un reportage complet
+title: Éducation et Culture
+subtitle: à Ingwiller
 layout: default
 modal-id: 6
 date: 2020-01-16
