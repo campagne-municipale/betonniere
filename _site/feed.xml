@@ -5,61 +5,76 @@
     <description>Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Jan 2020 08:09:17 +0100</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2020 08:09:17 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2020 10:07:35 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2020 10:07:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Transparence, démocratie</title>
-        <description>&lt;p&gt;La liste “Steeve Fertig : un engagement naturel” met un point d’honneur à doter à la ville d’Ingwiller d’une gouvernance éthique, participative et transparente. Elle tient particulièrement à prévenir tout conflit d’intérêt et copinage. Pour ce faire, elle s’appuiera sur les 30 propositions d’Anticor pour des communes plus éthiques, adaptées à la taille et aux particularités de notre commune.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;une-gouvernance-éthique-et-participative&quot;&gt;Une gouvernance éthique et participative&lt;/h2&gt;
+&lt;p&gt;La liste &lt;em&gt;Steeve Fertig : un engagement naturel&lt;/em&gt; met un point d’honneur à doter à la ville d’Ingwiller d’une gouvernance éthique, participative et transparente. Elle tient particulièrement à prévenir tout conflit d’intérêt et &lt;em&gt;copinage&lt;/em&gt;. Pour ce faire, elle s’appuiera sur les &lt;strong&gt;30 propositions d’Anticor pour des communes plus éthiques&lt;/strong&gt;, adaptées à la taille et aux particularités de notre commune.&lt;/p&gt;
 
-&lt;p&gt;ANTICOR https://www.anticor.org/ est une association fondée en 2002 pour lutter contre la corruption et rétablir l’éthique en politique. Son ambition est de réhabiliter le rapport de confiance qui doit exister entre les citoyens et leurs représentants, politiques et administratifs.
-L’association regroupe des citoyens et des élus de toutes tendances politiques engagés pour faire respecter les exigences démocratiques non partisanes. Lors des élections, Anticor propose aux candidats une charte https://www.anticor.org/2019/10/22/les-30-propositions-danticor-pour-des-communes-plus-ethiques/ définissant un engagement éthique irréprochable.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.anticor.org/&quot; target=&quot;_blank&quot;&gt;ANTICOR&lt;/a&gt; est une association fondée en 2002 pour lutter contre la corruption et rétablir l’éthique en politique. Son ambition est de réhabiliter le rapport de confiance qui doit exister entre les citoyens et leurs représentants, politiques et administratifs.
+L’association regroupe des citoyens et des élus de toutes tendances politiques engagés pour faire respecter les exigences démocratiques non partisanes. Lors des élections, Anticor propose aux candidats une &lt;a href=&quot;https://www.anticor.org/2019/10/22/les-30-propositions-danticor-pour-des-communes-plus-ethiques/&quot; target=&quot;_blank&quot;&gt;charte&lt;/a&gt; définissant un engagement éthique irréprochable.&lt;/p&gt;
 
-&lt;p&gt;1) Disponibilité des élus&lt;/p&gt;
+&lt;h3 id=&quot;disponibilité-des-élus&quot;&gt;Disponibilité des élus&lt;/h3&gt;
 
-&lt;p&gt;• Avoir un maire qui n’exerce ni mandat départemental, régional ou national, étant entendu qu’il n’effectuera pas plus de deux mandats consécutifs.
-• Moduler le montant des indemnités allouées aux conseillers municipaux en fonction de leur participation effective aux séances plénières.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Avoir un maire qui n’exerce ni mandat départemental, régional ou national, étant entendu qu’il n’effectuera pas plus de deux mandats consécutifs.&lt;/li&gt;
+  &lt;li&gt;Moduler le montant des indemnités allouées aux conseillers municipaux en fonction de leur participation effective aux séances plénières.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;2) Prévention des conflits d’intérêts&lt;/p&gt;
+&lt;h3 id=&quot;prévention-des-conflits-dintérêts&quot;&gt;Prévention des conflits d’intérêts&lt;/h3&gt;
 
-&lt;p&gt;• Mettre en place des mécanismes de détection des conflits d’intérêts afin d’indiquer, avant chaque séance plénière, les élus qui doivent se déporter.
-• Désigner un référent déontologue (obligatoire sauf pour les communes affiliées à un centre de gestion).
-• Développer des formations déontologiques adaptées aux risques propres de chaque service municipal.
-• Interdire aux élus et aux agents publics d’accepter tout cadeau ou avantage d’une entreprise.
-• Déléguer à un adjoint, vue son activité professionnelle du candidat maire, la signature des permis de construire&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mettre en place des mécanismes de détection des conflits d’intérêts afin d’indiquer, avant chaque séance plénière, les élus qui doivent se déporter.&lt;/li&gt;
+  &lt;li&gt;Désigner un référent déontologue (obligatoire sauf pour les communes affiliées à un centre de gestion).&lt;/li&gt;
+  &lt;li&gt;Développer des formations déontologiques adaptées aux risques propres de chaque service municipal.&lt;/li&gt;
+  &lt;li&gt;Interdire aux élus et aux agents publics d’accepter tout cadeau ou avantage d’une entreprise.&lt;/li&gt;
+  &lt;li&gt;Déléguer à un adjoint, vu l’activité professionnelle du candidat maire, la signature des permis de construire&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;3) Reconnaissance du rôle des élus minoritaires&lt;/p&gt;
+&lt;h3 id=&quot;reconnaissance-du-rôle-des-élus-minoritaires&quot;&gt;Reconnaissance du rôle des élus minoritaires&lt;/h3&gt;
 
-&lt;p&gt;• Permettre aux élus minoritaires d’exercer leur droit à la formation, à l’information et à l’expression.
-• Associer les élus minoritaires aux phases de négociation prévues dans les procédures d’attribution des marchés publics et des concessions.
-• Associer les élus minoritaires à la désignation des membres non élus de la Commission des commissions ouvertes pour les différents projets.
-• Élargir le droit à la protection fonctionnelle à tous les élus, même ceux n’ayant pas reçu de délégation de l’exécutif.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Permettre aux élus minoritaires d’exercer leur droit à la formation, à l’information et à l’expression.&lt;/li&gt;
+  &lt;li&gt;Associer les élus minoritaires aux phases de négociation prévues dans les procédures d’attribution des marchés publics et des concessions.&lt;/li&gt;
+  &lt;li&gt;Associer les élus minoritaires à la désignation des membres non élus des commissions ouvertes pour les différents projets.&lt;/li&gt;
+  &lt;li&gt;Élargir le droit à la protection fonctionnelle à tous les élus, même ceux n’ayant pas reçu de délégation de l’exécutif.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;4) Transparence de l’action publique&lt;/p&gt;
+&lt;h3 id=&quot;transparence-de-laction-publique&quot;&gt;Transparence de l’action publique&lt;/h3&gt;
 
-&lt;p&gt;• Rendre publique l’assiduité des conseillers municipaux aux séances plénières.
-• Mettre en ligne les documents communicables les plus importants : délibérations, arrêtés réglementaires, comptes-rendus des séances plénières, rapports des concessionnaires, rapports annuels sur le prix et la qualité du service, observations de la chambre régionale des comptes, etc.
-• Mettre en ligne le montant des indemnités perçues par chaque conseiller municipal.
-• Mettre en ligne les frais d’avocats engagés par la commune et les jugements rendus.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rendre publique l’assiduité des conseillers municipaux aux séances plénières.&lt;/li&gt;
+  &lt;li&gt;Mettre en ligne les documents communicables les plus importants : délibérations, arrêtés réglementaires, comptes-rendus des séances plénières, rapports des concessionnaires, rapports annuels sur le prix et la qualité du service, observations de la chambre régionale des comptes, etc.&lt;/li&gt;
+  &lt;li&gt;Mettre en ligne le montant des indemnités perçues par chaque conseiller municipal.&lt;/li&gt;
+  &lt;li&gt;Mettre en ligne les frais d’avocats engagés par la commune et les jugements rendus.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;5) Lutte contre la corruption&lt;/p&gt;
+&lt;h3 id=&quot;lutte-contre-la-corruption&quot;&gt;Lutte contre la corruption&lt;/h3&gt;
 
-&lt;p&gt;• Nommer un référent alerte éthique (obligatoire dans les communes de plus de 10 000 habitants).
-• Suspendre de ses fonctions exécutives tout élu mis en examen pour atteinte à la probité.
-• Retirer définitivement les fonctions exécutives à tout élu condamné pour atteinte à la probité.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nommer un référent alerte éthique (obligatoire dans les communes de plus de 10 000 habitants).&lt;/li&gt;
+  &lt;li&gt;Suspendre de ses fonctions exécutives tout élu mis en examen pour atteinte à la probité.&lt;/li&gt;
+  &lt;li&gt;Retirer définitivement les fonctions exécutives à tout élu condamné pour atteinte à la probité.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;6) Contrôle de l’action municipale&lt;/p&gt;
+&lt;h3 id=&quot;contrôle-de-laction-municipale&quot;&gt;Contrôle de l’action municipale&lt;/h3&gt;
 
-&lt;p&gt;• Mettre en place une Commission de contrôle financier pour examiner les comptes détaillés des entreprises liées à la commune par une convention financière (obligatoire dans les communes ayant plus de 75 000 euros de recettes).
-• Encourager la formation des conseillers municipaux et rendre public le nom des organismes formateurs.
-• Créer une commission de suivi des contrats de la commande publique, qui examinera notamment leurs avenants et leurs contentieux.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mettre en place une Commission de contrôle financier pour examiner les comptes détaillés des entreprises liées à la commune par une convention financière (obligatoire dans les communes ayant plus de 75 000 euros de recettes).&lt;/li&gt;
+  &lt;li&gt;Encourager la formation des conseillers municipaux et rendre public le nom des organismes formateurs.&lt;/li&gt;
+  &lt;li&gt;Créer une commission de suivi des contrats de la commande publique, qui examinera notamment leurs avenants et leurs contentieux.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;7) Participation des citoyens aux décisions locales
-• Mettre en place une Commission consultative des services publics locaux (obligatoire dans les communes de plus de 10 000 habitants).
-• Associer la population aux décisions par le biais de commissions ouvertes réunissant élus, experts et habitants concernés par les différents projets.
-• Garantir l’expression de tous les points de vue lors des procédures permettant aux citoyens de s’exprimer.
-• Créer une commission d’éthique, notamment composée d’élus minoritaires et de citoyens, chargée de contrôler le respect des dispositions éthiques et de faire des préconisations.&lt;/p&gt;
+&lt;h3 id=&quot;participation-des-citoyens-aux-décisions-locales&quot;&gt;Participation des citoyens aux décisions locales&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mettre en place une Commission consultative des services publics locaux (obligatoire dans les communes de plus de 10 000 habitants).&lt;/li&gt;
+  &lt;li&gt;Associer la population aux décisions par le biais de commissions ouvertes réunissant élus, experts et habitants concernés par les différents projets.&lt;/li&gt;
+  &lt;li&gt;Garantir l’expression de tous les points de vue lors des procédures permettant aux citoyens de s’exprimer.&lt;/li&gt;
+  &lt;li&gt;Créer une commission d’éthique, notamment composée d’élus minoritaires et de citoyens, chargée de contrôler le respect des dispositions éthiques et de faire des préconisations.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/01/20/transparence/</link>
@@ -123,9 +138,10 @@ La plantation des arbres fruitiers a été financée pour moitié par la Communa
 De plus, aucune mutualisation avec la future Maison des Services de notre Communauté de Communes n’a été sérieusement envisagée, alors  que Steeve Fertig, avait fait une proposition réfléchie dans ce sens. Une part de mutualisation entre les deux bâtiments permettrait des économies non seulement sur le plan financier, mais aussi sur le plan écologique, et cela à long terme. 
 Les charges de fonctionnement auraient pu de même être partagées (hôtesse d’accueil, entretien du bâtiment, factures d’électricité et de chauffage…) avec la communauté de communes.&lt;/p&gt;
 
-&lt;h3&gt; Une explosion des coûts &lt;/h3&gt;
+&lt;h3 id=&quot;une-explosion-des-coûts&quot;&gt;Une explosion des coûts&lt;/h3&gt;
 &lt;p&gt;Pire encore, la majorité au conseil municipal a voté début janvier un avenant au projet. Le budget des travaux augmente de 30%, passant la barre des deux millions d’euros. Au lieu d’un gouffre financier, la restructuration de la mairie aurait dû être un signal fort pour porter des valeurs d’avenir. Nous pensons qu’il faut sortir de l’ère des grosses constructions et aller vers des locaux mieux pensés, et mieux partagés.&lt;br /&gt;
 Faisons aujourd’hui des projets qui anticipent les besoins de demain !&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/01/20/chere-mairie/</link>
@@ -159,9 +175,13 @@ La deuxième raison, qui nous fait choisir le développement durable comme fil r
 
 &lt;p&gt;Dans tous ces domaines nous voulons être précurseurs, prendre les devant ! Soyons des acteurs de notre avenir.&lt;/p&gt;
 
-&lt;h2 id=&quot;intervention-du-groupe-dopposition---dni-avrilmaijuin-2019&quot;&gt;Intervention du groupe d’opposition - &lt;strong&gt;DNI&lt;/strong&gt; avril/mai/juin 2019&lt;/h2&gt;
-&lt;p&gt;Chers citoyen(ne)s d’Ingwiller, Au conseil municipal du mois de février, nous avons pu constater une nouvelle fois les incohérences des responsables de notre ville : d’une part, on crée un « sanctuaire de nature » au niveau de la Moder (ce qui est une excellente chose !) mais d’autre part on entérine dans le nouveau Plan Local d’Urbanisme intercommunal la présence d’une décharge de matériaux de chantiers de l’autre côté de la route dans l’ancienne carrière.&lt;br /&gt;
-Nous sommes également inquiets de voir que la ville va s’engager à nouveau dans un projet particulièrement coûteux : il s’agit de la rénovation de la Mairie. Nous ne contestons pas sa nécessité, mais nous sommes d’avis que cette rénovation aurait dû donner lieu à une réflexion plus approfondie pour coupler ce chantier avec celui de la création de la Maison Intercommunale des Services pour faire baisser les coûts de construction et, à terme, de fonctionnement. On a raté une occasion d’offrir un maximum de services de proximité aux citoyens tout en limitant les coûts.&lt;/p&gt;
+&lt;div class=&quot;col-lg-12 bg-light-gray&quot; id=&quot;dni&quot;&gt;
+    &lt;h2 class=&quot;text-primary&quot;&gt; Intervention du groupe d'opposition - &lt;b&gt;DNI&lt;/b&gt; avril/mai/juin 2019 &lt;/h2&gt;  
+
+    &lt;p&gt;Chers citoyen(ne)s d'Ingwiller, Au conseil municipal du mois de février, nous avons pu constater une nouvelle fois les incohérences des responsables de notre ville : d’une part, on crée un « sanctuaire de nature » au niveau de la Moder (ce qui est une excellente chose !) mais d’autre part on entérine dans le nouveau Plan Local d’Urbanisme intercommunal la présence d’une décharge de matériaux de chantiers de l’autre côté de la route dans l’ancienne carrière.&lt;/p&gt;
+
+    &lt;p&gt;Nous sommes également inquiets de voir que la ville va s’engager à nouveau dans un projet particulièrement coûteux : il s’agit de la rénovation de la Mairie. Nous ne contestons pas sa nécessité, mais nous sommes d’avis que cette rénovation aurait dû donner lieu à une réflexion plus approfondie pour coupler ce chantier avec celui de la création de la Maison Intercommunale des Services pour faire baisser les coûts de construction et, à terme, de fonctionnement. On a raté une occasion d’offrir un maximum de services de proximité aux citoyens tout en limitant les coûts.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;retrouvez-prochainement-sur-le-site-lensemble-du-programme-environnement-de-notre-liste&quot;&gt;Retrouvez prochainement sur le site l’ensemble du programme &lt;em&gt;environnement&lt;/em&gt; de notre liste.&lt;/h3&gt;
 </description>

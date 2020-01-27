@@ -35,8 +35,12 @@ Dans le dialogue, nous privilégierons les rénovations et les constructions éc
 
 Dans tous ces domaines nous voulons être précurseurs, prendre les devant ! Soyons des acteurs de notre avenir.
 
-## Intervention du groupe d'opposition - **DNI** avril/mai/juin 2019 ##
-Chers citoyen(ne)s d'Ingwiller, Au conseil municipal du mois de février, nous avons pu constater une nouvelle fois les incohérences des responsables de notre ville : d’une part, on crée un « sanctuaire de nature » au niveau de la Moder (ce qui est une excellente chose !) mais d’autre part on entérine dans le nouveau Plan Local d’Urbanisme intercommunal la présence d’une décharge de matériaux de chantiers de l’autre côté de la route dans l’ancienne carrière.  
-Nous sommes également inquiets de voir que la ville va s’engager à nouveau dans un projet particulièrement coûteux : il s’agit de la rénovation de la Mairie. Nous ne contestons pas sa nécessité, mais nous sommes d’avis que cette rénovation aurait dû donner lieu à une réflexion plus approfondie pour coupler ce chantier avec celui de la création de la Maison Intercommunale des Services pour faire baisser les coûts de construction et, à terme, de fonctionnement. On a raté une occasion d’offrir un maximum de services de proximité aux citoyens tout en limitant les coûts. 
+<div class="col-lg-12 bg-light-gray" id="dni" >
+    <h2 class="text-primary"> Intervention du groupe d'opposition - <b>DNI</b> avril/mai/juin 2019 </h2>  
+
+    <p>Chers citoyen(ne)s d'Ingwiller, Au conseil municipal du mois de février, nous avons pu constater une nouvelle fois les incohérences des responsables de notre ville : d’une part, on crée un « sanctuaire de nature » au niveau de la Moder (ce qui est une excellente chose !) mais d’autre part on entérine dans le nouveau Plan Local d’Urbanisme intercommunal la présence d’une décharge de matériaux de chantiers de l’autre côté de la route dans l’ancienne carrière.</p>
+
+    <p>Nous sommes également inquiets de voir que la ville va s’engager à nouveau dans un projet particulièrement coûteux : il s’agit de la rénovation de la Mairie. Nous ne contestons pas sa nécessité, mais nous sommes d’avis que cette rénovation aurait dû donner lieu à une réflexion plus approfondie pour coupler ce chantier avec celui de la création de la Maison Intercommunale des Services pour faire baisser les coûts de construction et, à terme, de fonctionnement. On a raté une occasion d’offrir un maximum de services de proximité aux citoyens tout en limitant les coûts.</p>
+</div>
 
 ### Retrouvez prochainement sur le site l'ensemble du programme *environnement* de notre liste. ###

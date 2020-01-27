@@ -16,6 +16,7 @@ Le conseil municipal s'est prononcé sur un projet de réhabilitation de la mair
 De plus, aucune mutualisation avec la future Maison des Services de notre Communauté de Communes n'a été sérieusement envisagée, alors  que Steeve Fertig, avait fait une proposition réfléchie dans ce sens. Une part de mutualisation entre les deux bâtiments permettrait des économies non seulement sur le plan financier, mais aussi sur le plan écologique, et cela à long terme. 
 Les charges de fonctionnement auraient pu de même être partagées (hôtesse d'accueil, entretien du bâtiment, factures d'électricité et de chauffage...) avec la communauté de communes. 
 
-<h3> Une explosion des coûts </h3>
+### Une explosion des coûts ###
 Pire encore, la majorité au conseil municipal a voté début janvier un avenant au projet. Le budget des travaux augmente de 30%, passant la barre des deux millions d'euros. Au lieu d'un gouffre financier, la restructuration de la mairie aurait dû être un signal fort pour porter des valeurs d'avenir. Nous pensons qu'il faut sortir de l'ère des grosses constructions et aller vers des locaux mieux pensés, et mieux partagés.  
 Faisons aujourd’hui des projets qui anticipent les besoins de demain !
+

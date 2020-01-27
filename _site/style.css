@@ -403,11 +403,26 @@ section h3.section-subheading {
     
 }  
 
+#dni {
+    margin-bottom: 42px;
+    margin-top: 24px;
+    padding: 12px;
+    color: #086623;
+    background-color: #fcd18b;    
+} 
+
+#dni h2 {
+    text-transform: none !important;
+    font-size: 1.8rem;
+    border: none;
+    line-height: 100%;
+}
+
 #editorial p {
     font-size: 18px;
     line-height: 1.3em;
     font-weight: 500;
-    color: #fcd18b;
+    color: #fcd18b !important;
     }
 
 .img-fluid {
@@ -713,9 +728,9 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content h3 {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     margin-left: 5rem;
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .portfolio-modal .modal-content button {
