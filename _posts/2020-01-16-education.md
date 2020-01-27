@@ -8,7 +8,7 @@ img: ecole.jpg
 thumbnail: ecole-thumbnail.jpg
 auteur: Photo Adobe Stock
 copyright: Tous droits réservés
-published: true
+published: false
 ---
 
 La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, la Région Grand Est, l’Agence de l’eau Rhin Meuse et le Ministère de la Transition écologique et solidaire.

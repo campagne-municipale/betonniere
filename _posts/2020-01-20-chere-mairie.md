@@ -17,5 +17,5 @@ De plus, aucune mutualisation avec la future Maison des Services de notre Commun
 Les charges de fonctionnement auraient pu de même être partagées (accueil, entretien du bâtiment, factures d'électricité et de chauffage...) avec la communauté de communes. 
 
 ### Une explosion des coûts ###
-Pire encore, la majorité au conseil municipal a voté début janvier un avenant au projet. Le budget des travaux augmente de 30%, passant la barre des deux millions d'euros. Au lieu d'un gouffre financier, la restructuration de la mairie aurait dû être un signal fort pour porter des valeurs d'avenir. Nous pensons qu'il faut sortir de l'ère des grosses constructions et aller vers des locaux mieux pensés, et mieux partagés.  
+Pire encore, la majorité au conseil municipal a voté début janvier un avenant au projet. Le budget des travaux augmente de 35%, passant la barre des deux millions d'euros. Au lieu d'un gouffre financier, la restructuration de la mairie aurait dû être un signal fort pour porter des valeurs d'avenir. Nous pensons qu'il faut sortir de l'ère des grosses constructions et aller vers des locaux mieux pensés, et mieux partagés.  
 Faisons aujourd’hui des projets qui anticipent les besoins de demain !
