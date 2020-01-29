@@ -5,8 +5,8 @@
     <description>Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Jan 2020 17:34:47 +0100</pubDate>
-    <lastBuildDate>Wed, 29 Jan 2020 17:34:47 +0100</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2020 17:44:00 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2020 17:44:00 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -91,7 +91,8 @@ L’association regroupe des citoyens et des élus de toutes tendances politique
     
       <item>
         <title>L'eau et la méthode</title>
-        <description>&lt;p&gt;Ne pensez-vous pas que la gestion de l’eau durant ces 6 dernières années a été un enchainement d’erreurs stratégiques ?&lt;/p&gt;
+        <description>&lt;h3 id=&quot;nous-ne-maîtrisons-plus-notre-eau&quot;&gt;Nous ne maîtrisons plus notre eau&lt;/h3&gt;
+&lt;p&gt;Ne pensez-vous pas que la gestion de l’eau durant ces 6 dernières années a été un enchainement d’erreurs stratégiques ?&lt;/p&gt;
 
 &lt;p&gt;Si la majorité actuelle s’est souvent vantée de la construction de la nouvelle station de pompage, elle n’a pourtant fait que terminer le projet engagé par le maire précédent !
 Par contre, on peut tout à fait lui reconnaître d’avoir enchainé les mauvaises décisions par la suite.&lt;/p&gt;
@@ -103,7 +104,7 @@ Par contre, on peut tout à fait lui reconnaître d’avoir enchainé les mauvai
 &lt;p&gt;Si nous insistons particulièrement sur ces décisions qui nous semblent mauvaises ce n’est pas pour vous dire que nous pourrons tout changer quand nous serons élus ! Nous ne vous promettrons pas la lune. Il y a malheureusement certains dossiers pour lesquels il ne sera pas forcément possible de revenir en arrière. 
 Or, comme nous le répétons depuis maintenant plusieurs semaines, nous pensons que certaines décisions doivent être prises de façon beaucoup plus démocratique ! 
 L’eau ou le patrimoine d’une ville transmis depuis plusieurs générations, sont autant de biens communs que nous devons préserver pour nos enfants. 
-C’est pourquoi à l’avenir nous nous engageons à fonctionner avec des commissions ouvertes à la population et à des experts. (Voir partie Transparence, démocratie)&lt;/p&gt;
+C’est pourquoi à l’avenir nous nous engageons à fonctionner avec des commissions ouvertes à la population et à des experts. (Lire l’article &lt;em&gt;Transparence et démocratie&lt;/em&gt;)&lt;/p&gt;
 &lt;div class=&quot;col-lg-12 bg-light-gray&quot; id=&quot;dni&quot;&gt;
     &lt;h2 class=&quot;text-primary&quot;&gt; Intervention du groupe d'opposition - &lt;b&gt;DNI&lt;/b&gt; avril/mai/juin 2017 &lt;/h2&gt;  
 &lt;p&gt;Nous désirons porter à la connaissance des habitants d'Ingwiller que nous étions contre la vente de la maison située au lieudit Cambuhl. Cette maison était jusqu'à présent le logement de fonction du technicien chargé de la surveillance de notre station de pompage de l'eau. Certes, avec la construction de la nouvelle station de pompage, ce logement de fonction ne se justifie plus. Pourtant, cela aurait pu être l'occasion de garder un bien situé à une place stratégique pour notre ville.&lt;/p&gt; 

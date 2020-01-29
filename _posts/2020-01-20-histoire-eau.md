@@ -11,7 +11,7 @@ auteur: Photo mrjn Photography
 copyright: Licence CC BY
 published: true
 ---
-
+### Nous ne maîtrisons plus notre eau ###
 Ne pensez-vous pas que la gestion de l'eau durant ces 6 dernières années a été un enchainement d'erreurs stratégiques ?
 
 Si la majorité actuelle s'est souvent vantée de la construction de la nouvelle station de pompage, elle n'a pourtant fait que terminer le projet engagé par le maire précédent !
@@ -24,7 +24,7 @@ Dans le même temps, la maison située au lieudit Cambuhl, qui était jusqu'à p
 Si nous insistons particulièrement sur ces décisions qui nous semblent mauvaises ce n'est pas pour vous dire que nous pourrons tout changer quand nous serons élus ! Nous ne vous promettrons pas la lune. Il y a malheureusement certains dossiers pour lesquels il ne sera pas forcément possible de revenir en arrière. 
 Or, comme nous le répétons depuis maintenant plusieurs semaines, nous pensons que certaines décisions doivent être prises de façon beaucoup plus démocratique ! 
 L'eau ou le patrimoine d'une ville transmis depuis plusieurs générations, sont autant de biens communs que nous devons préserver pour nos enfants. 
-C'est pourquoi à l'avenir nous nous engageons à fonctionner avec des commissions ouvertes à la population et à des experts. (Voir partie Transparence, démocratie)
+C'est pourquoi à l'avenir nous nous engageons à fonctionner avec des commissions ouvertes à la population et à des experts. (Lire l'article *Transparence et démocratie*)
 <div class="col-lg-12 bg-light-gray" id="dni" >
     <h2 class="text-primary"> Intervention du groupe d'opposition - <b>DNI</b> avril/mai/juin 2017 </h2>  
 <p>Nous désirons porter à la connaissance des habitants d'Ingwiller que nous étions contre la vente de la maison située au lieudit Cambuhl. Cette maison était jusqu'à présent le logement de fonction du technicien chargé de la surveillance de notre station de pompage de l'eau. Certes, avec la construction de la nouvelle station de pompage, ce logement de fonction ne se justifie plus. Pourtant, cela aurait pu être l'occasion de garder un bien situé à une place stratégique pour notre ville.</p> 
