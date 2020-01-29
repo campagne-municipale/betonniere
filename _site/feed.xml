@@ -5,8 +5,8 @@
     <description>Le site de campagne de la liste Steeve FERTIG aux éléctions municipales 2020 à Ingwiller.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Jan 2020 18:17:36 +0100</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2020 18:17:36 +0100</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2020 17:34:47 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2020 17:34:47 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -85,6 +85,34 @@ L’association regroupe des citoyens et des élus de toutes tendances politique
         <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/01/20/steeve/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/01/20/steeve/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>L'eau et la méthode</title>
+        <description>&lt;p&gt;Ne pensez-vous pas que la gestion de l’eau durant ces 6 dernières années a été un enchainement d’erreurs stratégiques ?&lt;/p&gt;
+
+&lt;p&gt;Si la majorité actuelle s’est souvent vantée de la construction de la nouvelle station de pompage, elle n’a pourtant fait que terminer le projet engagé par le maire précédent !
+Par contre, on peut tout à fait lui reconnaître d’avoir enchainé les mauvaises décisions par la suite.&lt;/p&gt;
+
+&lt;p&gt;En effet, rappelons que la gestion de la nouvelle station de pompage de l’eau est maintenant entièrement sous-traitée au SDEA ! Ce n’est un secret pour personne que depuis ce choix de l’équipe en place, l’eau d’Ingwiller, qui était si bonne autrefois, nous laisse aujourd’hui un goût amer, de terre ou de javel selon les quartiers…&lt;/p&gt;
+
+&lt;p&gt;Dans le même temps, la maison située au lieudit Cambuhl, qui était jusqu’à présent le logement de fonction du technicien chargé de la surveillance de notre station de pompage de l’eau, a été vendue. Certes, avec la construction de la nouvelle station de pompage, ce logement de fonction ne se justifiait plus. Pourtant, nous sommes convaincus que cela aurait pu être l’occasion de garder un bien situé à une place stratégique pour notre ville. Selon nous, ce bien aurait dû être requalifié pour une autre utilité publique.&lt;/p&gt;
+&lt;h3 id=&quot;vers-une-prise-de-décision-démocratique&quot;&gt;Vers une prise de décision démocratique&lt;/h3&gt;
+&lt;p&gt;Si nous insistons particulièrement sur ces décisions qui nous semblent mauvaises ce n’est pas pour vous dire que nous pourrons tout changer quand nous serons élus ! Nous ne vous promettrons pas la lune. Il y a malheureusement certains dossiers pour lesquels il ne sera pas forcément possible de revenir en arrière. 
+Or, comme nous le répétons depuis maintenant plusieurs semaines, nous pensons que certaines décisions doivent être prises de façon beaucoup plus démocratique ! 
+L’eau ou le patrimoine d’une ville transmis depuis plusieurs générations, sont autant de biens communs que nous devons préserver pour nos enfants. 
+C’est pourquoi à l’avenir nous nous engageons à fonctionner avec des commissions ouvertes à la population et à des experts. (Voir partie Transparence, démocratie)&lt;/p&gt;
+&lt;div class=&quot;col-lg-12 bg-light-gray&quot; id=&quot;dni&quot;&gt;
+    &lt;h2 class=&quot;text-primary&quot;&gt; Intervention du groupe d'opposition - &lt;b&gt;DNI&lt;/b&gt; avril/mai/juin 2017 &lt;/h2&gt;  
+&lt;p&gt;Nous désirons porter à la connaissance des habitants d'Ingwiller que nous étions contre la vente de la maison située au lieudit Cambuhl. Cette maison était jusqu'à présent le logement de fonction du technicien chargé de la surveillance de notre station de pompage de l'eau. Certes, avec la construction de la nouvelle station de pompage, ce logement de fonction ne se justifie plus. Pourtant, cela aurait pu être l'occasion de garder un bien situé à une place stratégique pour notre ville.&lt;/p&gt; 
+&lt;p&gt;Selon nous, ce bien aurait dû être requalifié pour une autre utilité publique. De plus, le produit de cette vente sera reversé au budget principal au lieu de rester dans le budget du service des eaux. Cette somme aurait dû contribuer à faire baisser la dette entrainée par la nouvelle station de pompage et éviter en partie d'éventuelles augmentations du prix de l'eau. D'autre part, cette vente serait-elle la première d'une longue série de ventes concourant à l'appauvrissement du patrimoine immobilier de notre ville ? &lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/01/20/histoire-eau/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/20/histoire-eau/</guid>
         
         
       </item>
