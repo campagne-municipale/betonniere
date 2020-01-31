@@ -1,5 +1,5 @@
 # Team names, titles and social links
-people01:
+people:
 - name: Steeve<br />FERTIG
   pic: steeve_fertig.jpg
   position: 1
@@ -14,26 +14,6 @@ people01:
   position: 4
 - name: Laurent<br />WAAG BRACONNIER
   pic: laurent_waag.jpg
-  position: 5
-- name: Élisabeth<br />ROTH
-  pic: elisabeth_roth.jpg
-  position: 6
-
-people02:
-- name: Pierre<br />KESSLER
-  pic: avh01.png
-  position: 1
-- name: Elisabeth<br />KARAS
-  pic: avf01.png
-  position: 2
-- name: Michel<br />GANDER
-  pic: avh02.png
-  position: 3
-- name: Claudia<br />HENNINGER
-  pic: claudia.jpg
-  position: 4
-- name: Gilles<br />THIRIET
-  pic: avh03.png
   position: 5
 - name: Élisabeth<br />ROTH
   pic: elisabeth_roth.jpg
