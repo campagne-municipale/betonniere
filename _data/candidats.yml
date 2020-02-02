@@ -18,36 +18,38 @@ people:
 - name: Élisabeth<br />ROTH
   pic: elisabeth_roth.jpg
   position: 6
-- name: Christophe<br />GRASSER
-  pic: christophe_grasser.jpg
-  position: 7
-- name: Elisabeth<br />MATHIS  
-  pic: elisabeth_mathis.jpg  
-  position: 8  
-- name: Jeremy<br />HUBER
-  pic: jeremy_huber.jpg
-  position: 9  
-- name: Melek<br />BÖCÜ
-  pic: melek_böcü.jpg
-  position: 10
-- name: Joël<br />BRACONNIER
-  pic: joel_braconnier.jpg
-  position: 11
-- name: Mandy<br />HEUSSLER
-  pic: mandy_heussler.jpg
-  position: 12
 - name: Michel<br />GANDER
   pic: michel_gander.jpg
-  position: 13
-- name: Ève<br />ZELGOWSKI
-  pic: eve_zelgowski.jpg
-  position: 14
-- name: Pierre<br />KESSLER
-  pic: pierre_kessler.jpg
-  position: 15
+  position: 7
 - name: Valérie<br />SORLET
   pic: valerie_sorlet.jpg
-  position: 16
+  position: 8
+- name: Pierre<br />KESSLER
+  pic: pierre_kessler.jpg
+  position: 9
+- name: Elisabeth<br />MATHIS  
+  pic: elisabeth_mathis.jpg  
+  position: 10  
+- name: Christophe<br />GRASSER
+  pic: christophe_grasser.jpg
+  position: 11
+- name: Melek<br />BÖCÜ
+  pic: melek_böcü.jpg
+  position: 12
+#- name: Jeremy<br />HUBER
+#  pic: jeremy_huber.jpg
+#  position: 13  
+#- name: Joël<br />BRACONNIER
+#  pic: joel_braconnier.jpg
+#  position: 14
+#- name: Mandy<br />HEUSSLER
+#  pic: mandy_heussler.jpg
+#  position: 15
+#- name: Ève<br />ZELGOWSKI
+#  pic: eve_zelgowski.jpg
+#  position: 16
+
+
   
 
 
