@@ -25,7 +25,12 @@ p {
 p.large {
     font-size: 16px;
 }
+mark {
+    font-weight: bold;
+    font-size: 16px;
+    font-variant: small-caps;
 
+}
 a,
 a:hover,
 a:focus,
@@ -60,6 +65,13 @@ h2 {
     color: #{{ site.data.template.color.primary }} !important;
 }
 
+ol {
+    padding-left: 5em;
+}
+ol li {
+    list-style-position: outside;
+    margin: 0;
+    }
 .img-centered {
     margin: 0 auto;
 }
