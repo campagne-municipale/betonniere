@@ -70,7 +70,7 @@ ol {
 }
 ol li {
     list-style-position: outside;
-    margin: 0;
+    padding-bottom: 6px;
     }
 .img-centered {
     margin: 0 auto;
