@@ -62,10 +62,13 @@ people:
   position: 20
 - name: Frédéric<br />KARAS
   pic: frederic_karas.jpg
-  position: 21
+  position: 21  
+- name: Romain<br />CANTAT
+  pic: romain_cantat.jpg
+  position: 22
 - name: Joël<br />BRACONNIER
   pic: joel_braconnier.jpg
-  position: 22
+  position: 23
 
   
 
