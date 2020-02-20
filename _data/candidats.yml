@@ -57,8 +57,8 @@ people:
 - name: Florent<br />OSTERROTH
   pic: florent_osterroth.jpg
   position: 19
-- name: Brigitte<br />KESSLER
-  pic: brigitte_kessler.jpg
+- name: Éléonore CARASCO
+  pic: eleonore_carasco.jpg
   position: 20
 - name: Frédéric<br />KARAS
   pic: frederic_karas.jpg
@@ -66,9 +66,15 @@ people:
 - name: Romain<br />CANTAT
   pic: romain_cantat.jpg
   position: 22
+- name: Christian COMTESSE
+  pic: christian_comtesse.jpg
+  position: 23
+- name: Brigitte<br />KESSLER
+  pic: brigitte_kessler.jpg
+  position: 24
 - name: Joël<br />BRACONNIER
   pic: joel_braconnier.jpg
-  position: 23
+  position: 25
 
   
 
