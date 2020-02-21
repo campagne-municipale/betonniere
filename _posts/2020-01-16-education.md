@@ -2,7 +2,7 @@
 title: Éducation et Culture
 subtitle: à Ingwiller
 layout: default
-modal-id: 6
+modal-id: 10
 date: 2020-01-16
 img: ecole.jpg
 thumbnail: ecole-thumbnail.jpg

@@ -6,7 +6,7 @@ modal-id: 4
 date: 2020-01-20
 img: transparence.jpg
 thumbnail: transparence-thumbnail.jpg
-alt: image-alt
+alt: Argent sale
 auteur: Photo Markus Spiske
 copyright: Licence CC BY
 published: true
