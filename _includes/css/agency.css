@@ -72,6 +72,26 @@ ol li {
     list-style-position: outside;
     padding-bottom: 6px;
     }
+
+    dl {
+       padding: 10% 10% 0 10%;
+      }
+      dt {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #{{ site.data.template.color.primary }} !important;
+      }
+      
+      dt::after {
+        content: "\00a0:";
+      }
+      dd {
+        padding-bottom: 12px;
+        margin-bottom: 24px;
+        font-size: 1.8rem;
+        border-bottom: #999 solid 1px;
+      }
+
 .img-centered {
     margin: 0 auto;
 }
