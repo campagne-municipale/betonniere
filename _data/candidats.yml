@@ -63,16 +63,30 @@ people:
 - name: Frédéric<br />KARAS
   pic: frederic_karas.jpg
   position: 21  
+- name: Sylvie<br />NUNIGE
+  pic: sylvie_nunige.jpg  
+  position: 22
 - name: Romain<br />CANTAT
   pic: romain_cantat.jpg
-  position: 22
-- name: Christian COMTESSE
-  pic: christian_comtesse.jpg
   position: 23
+- name: Marie-Reine<br />BERNHARD
+  pic: marie-reine_bernhard.jpg
+  position: 24
+- name: Gilles<br />THIRIET
+  pic:  gilles_thiriet.jpg
+  position: 25
 - name: Brigitte<br />KESSLER
   pic: brigitte_kessler.jpg
-  position: 24
-
+  position: 26
+- name: Christian<br />COMTESSE
+  pic: christian_comtesse.jpg
+  position: 27
+- name: Aksa<br />   
+  pic: aksa.jpg
+  position: 28
+- name: Joël<br />BRACONNIER
+  pic: joel_braconnier.jpg
+  position: 29
 
   
 
