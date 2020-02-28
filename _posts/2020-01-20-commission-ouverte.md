@@ -17,11 +17,14 @@ Notre république fonctionne sous le régime de la démocratie représentative. 
 
 ## La dictature de la majorité ##
 Par le jeu du scrutin majoritaire, la représentation des partis ou des listes victorieux devient écrasante, dans le but de faciliter le fonctionnement des institutions. Ainsi en 2014, à Ingwiller, avec un peu moins de 59% des voix, la liste Doeppen s'est vu attribuer 22 sièges sur 27. 
-Et suivant les communes et les conseils municipaux, on verra une gamme de fonctionnements allant de la collaboration harmonieuse dans l'intérêt de la commune à "La commune, c'est nous ! Vous n'êtes rien !"
+Et suivant les communes et les conseils municipaux, on verra une gamme de fonctionnements allant de la collaboration harmonieuse dans l'intérêt de la commune à "La commune, c'est nous ! Vous n'êtes rien !"  
+L'association [ANTICOR](https://www.anticor.org/){:target="_blank"} dans ses *30 propositions pour des communes plus éthiques* intègre des points permettant d'éviter une telle mise à l'écart des opposants. Nous les reprenons à notre compte :
+* Permettre aux élus minoritaires d’exercer leur droit à la formation, à l’information et à l’expression.
+* Associer les élus minoritaires aux phases de négociation prévues dans les procédures d’attribution des marchés publics et des concessions.
+* Associer les élus minoritaires à la désignation des membres des commissions ouvertes.
 
 ## Le référendum local ##
-Ce dispositif de consultation de la population a été amplement médiatisé. Il présente cependant quelques inconvénients majeurs. Lourd est coûteux à mettre en place, il doit être réservé à des projets d'une grande importance et concernant la totalité de nos concitoyens. Il sera donc utilisé de façon tout-à-fait exceptionnel et ne peut être un instrument de la démocratie participative au quotidien. Il ne serait pas pertient de faire un référendum sur l'aménagement d'une impasse dans un lotissement...
-
+Ce dispositif de consultation de la population a été amplement médiatisé. Il présente cependant quelques inconvénients majeurs. Lourd et coûteux à mettre en place, il doit être réservé à des projets d'une grande importance et concernant la totalité de nos concitoyens. Il sera donc utilisé de façon tout-à-fait exceptionnelle et ne peut être un instrument de la démocratie participative au quotidien. Il ne serait pas pertinent de faire un référendum sur l'aménagement d'une impasse dans un lotissement... Le référendum local devrait être réservé à des choix stratégiques qui impactent l'avenir de la commune pour plusieurs mandatures.
 
 ## Démocratie n'est pas paralysie ##
 
