@@ -20,6 +20,8 @@ Par le jeu du scrutin majoritaire, la représentation des partis ou des listes v
 Et suivant les communes et les conseils municipaux, on verra une gamme de fonctionnements allant de la collaboration harmonieuse dans l'intérêt de la commune à "La commune, c'est nous ! Vous n'êtes rien !"
 
 ## Le référendum local ##
+Ce dispositif de consultation de la population a été amplement médiatisé. Il présente cependant quelques inconvénients majeurs. Lourd est coûteux à mettre en place, il doit être réservé à des projets d'une grande importance et concernant la totalité de nos concitoyens. Il sera donc utilisé de façon tout-à-fait exceptionnel et ne peut être un instrument de la démocratie participative au quotidien. Il ne serait pas pertient de faire un référendum sur l'aménagement d'une impasse dans un lotissement...
+
 
 ## Démocratie n'est pas paralysie ##
 
