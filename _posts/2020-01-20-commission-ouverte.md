@@ -13,7 +13,16 @@ published: true
 ---
 
 ## Une parole tous les six ans ? ##
+Notre république fonctionne sous le régime de la démocratie représentative. Tous les cinq ou six ans, les électeurs élisent des représentants : maires, députés, président. Par le biais de l'abstention, de la non-inscription sur les listes électorales, du vote "contre"... ces représentants peuvent en fait n'avoir été choisis que par une faible partie des citoyens. Pendant leur mandature, la population ne sera, à priori plus consultée sur les réformes, les projets, les programmes... que par les instituts de sondage d'opinion. Nous constatons chaque jour que cette situation ne satisfait plus guère nos concitoyens.
+
+## La dictature de la majorité ##
+Par le jeu du scrutin majoritaire, la représentation des partis ou des listes victorieux devient écrasante, dans le but de faciliter le fonctionnement des institutions. Ainsi en 2014, à Ingwiller, avec un peu moins de 59% des voix, la liste Doeppen s'est vu attribuer 22 sièges sur 27. 
+Et suivant les communes et les conseils municipaux, on verra une gamme de fonctionnements allant de la collaboration harmonieuse dans l'intérêt de la commune à "La commune, c'est nous ! Vous n'êtes rien !"
 
 ## Le référendum local ##
 
-## Notre proposition ##  
+## Démocratie n'est pas paralysie ##
+
+## Une attitude d'écoute et de modestie ##
+
+
