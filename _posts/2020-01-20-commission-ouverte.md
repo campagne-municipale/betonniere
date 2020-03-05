@@ -33,7 +33,7 @@ Nous créerons des **commissions ouvertes** au plus près des citoyens concerné
 + 1/3 de citoyens concernés ou impactés par le projet, y compris non-électeurs
 + 1/3 de conseillers municipaux ou des habitants tirés au sort. Les conseillers d'opposition y auront bien entendu leur place
 
-Ces commissions ouvertes permettront d'assurer transparence et prise en compte des besoins réels des habitants à travers tout le cycle de vie d'un projet, des études préliminaires au bilan final. Nous assurerons un retour régulier sur l'avancement des dossiers et des enquêtes de satisfaction seront réalisées pour améliorer les actions.
+Ces commissions ouvertes permettront de garantir transparence et prise en compte des besoins réels des habitants à travers tout le cycle de vie d'un projet, des études préliminaires au bilan final. Nous assurerons un retour régulier sur l'avancement des dossiers et des enquêtes de satisfaction seront réalisées pour améliorer les actions.
 De telles structures ont déjà fait leurs preuves dans nombre de communes, grandes ou petites, avec des variantes dans leur fonctionnement. On parlera ainsi de commissions de quartier, de commissions extra-municipales
 
 Nous voulons que plus un Ingwillerois ne doive se demander dans l'intérêt de qui telle ou telle mesure a été décidée par la municipalité.
