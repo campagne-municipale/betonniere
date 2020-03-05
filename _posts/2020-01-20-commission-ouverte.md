@@ -1,6 +1,6 @@
 ---
-title: La commission ouverte
-subtitle: un instrument de démocratie participative
+title: Vers la démocratie participative
+subtitle: dans la vie de notre commune
 layout: default
 modal-id: 9
 date: 2020-01-20
@@ -13,7 +13,7 @@ published: true
 ---
 
 ## Une parole tous les six ans ? ##
-Notre république fonctionne sous le régime de la démocratie représentative. Tous les cinq ou six ans, les électeurs élisent des représentants : maires, députés, président. Par le biais de l'abstention, de la non-inscription sur les listes électorales, du vote "contre"... ces représentants peuvent en fait n'avoir été choisis que par une faible partie des citoyens. Pendant leur mandature, la population ne sera, à priori, plus consultée sur les réformes, les projets, les programmes... que par les instituts de sondage d'opinion. Cette situation ne satisfait plus nos concitoyens.
+Notre république fonctionne sous le régime de la démocratie représentative. Tous les cinq ou six ans, les électeurs élisent des représentants : maires, députés, président. Par le biais de l'abstention, de la non-inscription sur les listes électorales, du vote "contre"... ces représentants peuvent en fait n'avoir été choisis que par une faible partie des citoyens. Pendant leur mandature, la population ne sera plus consultée sur les réformes, les projets, les programmes... que par les instituts de sondage d'opinion. Cette situation ne satisfait plus nos concitoyens.
 
 ## Pas de dictature de la majorité ##
 Par le jeu du scrutin majoritaire, la représentation des listes victorieuses devient écrasante, dans le but de faciliter le fonctionnement des institutions. Ainsi en 2014, à Ingwiller, avec un peu moins de 59% des voix, la liste Doeppen s'est vu attribuer 22 sièges sur 27. 
